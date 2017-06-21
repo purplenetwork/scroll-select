@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:purplenetwork/scroll-select.git"
+    "url": "git+https://github.com/purplenetwork/scroll-select.git"
   },
   "keywords": [],
   "author": "chemzqm@gmail.com",
