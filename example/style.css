@@ -54,7 +54,7 @@ pre {
   border-radius: 4px;
   white-space: pre-wrap;
 }
-#select {
+#days, #months {
   height: 150px;
   width: 120px;
 }

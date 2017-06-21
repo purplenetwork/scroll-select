@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/chemzqm/scroll-select.git"
+    "url": "git+ssh://git@github.com:purplenetwork/scroll-select.git"
   },
   "keywords": [],
   "author": "chemzqm@gmail.com",
@@ -56,6 +56,7 @@
     "component-emitter": "^1.2.1",
     "dom-easy": "^1.1.1",
     "domify": "^1.4.0",
+    "hammer-touchemulator": "0.0.2",
     "has-touch": "^1.0.1",
     "iscroll-component": "^1.6.2"
   },
