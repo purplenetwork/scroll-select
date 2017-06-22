@@ -168,7 +168,7 @@ Select.prototype.filter = function (values) {
 		for (var i = 0; i < values.length; i++) {
 			document.querySelector('.scroll-select-item[data-value="' + values[i] + '"]').style.display = 'none';
 		}
-	} else if (typeof values === 'string') {
+	} else {
 		document.querySelector('.scroll-select-item[data-value="' + values + '"]').style.display = 'none';
 	}
 };
