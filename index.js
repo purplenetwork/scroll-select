@@ -3,7 +3,6 @@ var domify = require('domify');
 var _ = require('dom');
 var Iscroll = require('iscroll');
 var hasTouch = require('has-touch');
-var TouchEmulator = require('hammer-touchemulator')();
 
 /**
  * Init select with `el` and optional option
